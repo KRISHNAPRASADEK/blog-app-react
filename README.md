@@ -1,7 +1,7 @@
 # material ui tutorial
 <h3>Simple Blog-App in React with Material UI</h3>
 
-<h3>live demo : </h3>
+<h2>live demo : https://blog-app-reactjs.netlify.app/</h3>
 
 # detailes
 
