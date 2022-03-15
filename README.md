@@ -1,6 +1,7 @@
-# Simple Blog-App in React learning Material UI
+# material ui tutorial
+<h3>Simple Blog-App in React with Material UI</h3>
 
-# live demo : 
+<h3>live demo : </h3>
 
 # detailes
 
